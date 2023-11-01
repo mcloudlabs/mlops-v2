@@ -5,7 +5,7 @@ orchestration=github-actions #options: github-actions / azure-devops
 git_folder_location='C:\Users\mounirm\OneDrive\workspace\MLOpsV2Root\mlopsv2-sparse'   #replace with the local root folder location where you want to create the project folder
 project_name=Mlops-Test   #replace with your project name
 github_org_name=mCloudLabs   #replace with your github org name
-project_template_github_url=https://github.com/mcloudlabs/mlops-templates #replace with the url for the project template for your organization created in step 2.2, or leave for demo purposes
+project_template_github_url=https://github.com/mcloudlabs/AzMLOps #replace with the url for the project template for your organization created in step 2.2, or leave for demo purposes
 
 cd $git_folder_location
 
